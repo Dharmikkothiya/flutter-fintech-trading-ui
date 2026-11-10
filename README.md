@@ -1,6 +1,6 @@
 # 📈 Flutter Fintech & Crypto Portfolio Engine (Clean Bloc)
 
-An enterprise-grade, high-performance financial mobile application built with Flutter. Demonstrates 60+ FPS zero frame-drop rendering, complex candlestick charts, gesture-driven micro-interactions, and reactive state management using BLoC.
+A high-performance financial mobile application engineered with Flutter and BLoC state management. Designed for 60+ FPS zero frame-drop rendering, it features interactive real-time candlestick charts, live WebSocket ticker updates, biometric authentication, and multi-currency portfolio tracking.
 
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-3.2+-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)](https://dart.dev)
